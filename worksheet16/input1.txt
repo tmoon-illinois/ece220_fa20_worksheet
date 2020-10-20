@@ -1,0 +1,9 @@
+Together with ECE120, which you should have already taken, this course gives an introduction to the design and programming of computing systems. 
+This course will focus on C programming, where each new C concept will be related to the fundamental concepts described in ECE120. 
+We will start by finishing our coverage of low-level concepts such as I/O, subroutines, and stacks in LC-3 assembly language, then move on to C. 
+We will cover basic programming concepts, functions, arrays, pointers, I/O, recursion, simple data structures, and concepts in object-oriented programming. 
+A bottom-up understanding of computing systems has proven more successful in helping students to understand advanced concepts in computing that follow in the ECE curriculum.
+Again, this course requires that you take ECE120 first. 
+Concurrent enrollment is not acceptable. 
+If you have not met this requirement but think that you should still enroll, speak with the instructor.
+
